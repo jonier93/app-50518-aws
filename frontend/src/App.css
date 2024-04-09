@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+#block-nav {
+  background-color: black;
+}
+
+#items-barra {
+  display: inline;
+  background-color: black;
+}
+
+#btn-barra {
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  border: 0px;
+  padding: 1%;
+  
+}
+
+img {
+  height: 500px;
+}
+
+p {
+  font-size: 20px;
+}
+
+
